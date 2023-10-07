@@ -1,9 +1,9 @@
-# RepoName
+# wps
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/wps
 ```
 
 ## Notes
